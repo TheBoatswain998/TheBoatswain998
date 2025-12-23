@@ -1,5 +1,3 @@
-## Hi, I'm Pavel 👋
-
 Frontend developer focused on clean and simple web layouts.
 
 ### Tech stack
