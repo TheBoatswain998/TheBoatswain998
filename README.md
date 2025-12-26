@@ -1,8 +1,8 @@
 Frontend developer focused on clean and simple web layouts.
 
 ### Tech stack
-- HTML5 (semantic markup)
-- CSS3 (Flexbox, Grid)
+- HTML5
+- CSS 
 - Responsive design
 - JavaScript
 - Figma to HTML
